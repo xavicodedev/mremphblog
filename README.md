@@ -1,33 +1,22 @@
-[![](https://img.shields.io/badge/featured%20on-ST-brightgreen)](https://sveltethemes.dev)
-# Hagura SvelteKit
+# Play - Free Tailwind CSS Template for Startup, Apps and SaaS
 
-This is a port of [Hagura Jekyll Theme](https://webjeda.com/hagura/).
+Play is an open-source and free Tailwind CSS template co-created by TailGrids and UIdeck. This template specially crafted for SaaS, startup, business and software website.
+Play crafted in a way that you can use with almost all sort of web project. This is Tailwind CSS version of our old [Bootstrap](https://preview.uideck.com/items/play-bootstrap/) project.
 
-A simple blog with pagination and highly legible layout. It uses TailwindCSS for styles. It processess `.md`(markdown) posts into HTML using [mdsvex](https://mdsvex.com/).
+### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
-**Demo:** [https://hagura.sveltethemes.dev/](https://hagura.sveltethemes.dev/)
 
-## Features
+### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
 
-- Markdown blog posts
-- Pagination using [svelte-paginate](https://www.npmjs.com/package/svelte-paginate)
-- Supports svelte components in markdown files
-- Open-Props styles
-- Basic SEO
-- Vercel adapter(change as per your requirement)
+### [⬇️ Download Now](https://links.tailgrids.com/play-download)
 
-## Installation
+[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
 
-Run the following commands.
 
-`git clone https://github.com/sharu725/hagura-sveltekit`
 
-`npm install`
+## 📃 License
+Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
 
-`npm run dev` for development.
-
-`npm run build` for production.
-
-## Contribute
-
-The app is still in development. Any contribution to improve it is appreciated.
+## 💙 Support
+You can always support this project by [Starring🌟 This Repository](https://github.com/tailgrids/play-tailwind) 
+and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
